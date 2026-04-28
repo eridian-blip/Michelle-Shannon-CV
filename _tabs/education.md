@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title: "Education"
 date: 2025-04-28 12:00:00
-categories: [Education]
-tags: [Education]
+order: first
 ---
 
 ## University of Wisconsin-Milwaukee
