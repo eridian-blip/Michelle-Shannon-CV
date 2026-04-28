@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Publications"
-date: 2025-04-28 12:00:00
-order: first
+icon: fas fa-book
+order: 5
 ---
 
 - Perret, R., **Shannon, M.**, Thompson, A., Berge, C. & Becker, D. (2023). "[Reaping the Harvest: Developing the Idaho Harvester](https://digitalcommons.usu.edu/westernarchives/vol14/iss1/12/)." Journal of Western Archives, 14(1).

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Service"
-date: 2025-04-28 12:00:00
-order: first
+icon: fas fa-calendar
+order: 7
 ---
 
 ### Open Science Collaborative of Library and Information Professionals (OSCLIP)

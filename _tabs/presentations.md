@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Presentations"
-date: 2025-04-28 12:00:00
-order: first
+icon: fas fa-commenting
+order: 4
 ---
 
 - **Shannon, M.** & Garcia-Trujillo, B. (2026). "Rebranding a 16-Year-Old IR: A Case Study." Southern Miss Institutional Repository Conference.

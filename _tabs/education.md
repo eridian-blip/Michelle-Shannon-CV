@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Education"
-date: 2025-04-28 12:00:00
-order: first
+icon: fas fa-graduation-cap
+order: 2
 ---
 
 ## University of Wisconsin-Milwaukee

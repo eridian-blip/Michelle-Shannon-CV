@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Funding"
-date: 2025-04-28 12:00:00
-order: first
+icon: fas fa-star
+order: 6
 ---
 
 ## Total funding: $25,096.00 USD

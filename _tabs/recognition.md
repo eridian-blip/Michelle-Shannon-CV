@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Recognition"
-date: 2025-04-28 12:00:00
-order: first
+icon: fas fa-trophy
+order: 8
 ---
 
 ## University of Nevada, Las Vegas

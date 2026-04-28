@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Experience"
-date: 2025-04-28 12:00:00
-order: first
+icon: fas fa-briefcase
+order: 3
 ---
 
 ## Institutional Repository Manager
