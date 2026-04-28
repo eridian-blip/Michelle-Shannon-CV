@@ -1,8 +1,9 @@
 ---
 title: Education
-date: 
-categories:
-tags: 
+date: 2025-04-28 12:00:00
+categories: Education
+tags: Education
+description: Education
 ---
 
 ## University of Wisconsin-Milwaukee
