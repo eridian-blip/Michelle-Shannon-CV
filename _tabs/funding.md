@@ -1,0 +1,17 @@
+---
+layout: page
+title: "Funding"
+date: 2025-04-28 12:00:00
+order: first
+---
+
+## Total funding: $25,096.00 USD
+
+### Finley, P., Skarl, S., **Shannon, M.** & Wirth, A. (2025). Publishing Matters: A Lunch & Learn Series on the Art and Ethics of Scholarly Publishing. *UNLV University Libraries Faculty Development Fund*. Amount awarded: $3,000.00 USD 
+- Funding goes toward a series of three Lunch & Learn events that explore, discuss, and prmote high quality publishing for an audience of faculty and graduate student authors, peer reviewers, and editors.
+
+### Wirth, A., Frederick, W., **Shannon, M.** & Koziura, A. (2023). Improving Accessibility and Discovery of Multimedia Files in Digital Scholarship@UNLV. *UNLV University Libraries Dean's Leadership Circle*. Amount awarded: $4,775.00 USD
+- This project seeks to improve accessibility and online discovery of existing multimedia content in the institutional repository, Digital Scholarship@UNLV. The repository holds over 30,000 records, most of which are text-based. Approximately 600 records include video or audio as the primary file, many of which do not include captions or transcripts and some of which have limitations which result in less access and use of the content. We will hire a UNLV graduate student to 1) research and identify appropriate technology to create transcripts and closed captions 2) utilize the selected technology on a subset of our files 3) review the selected files for missing metadata and issues with video or audio file playback, and 4) update the records with captions, transcripts, and metadata to meet current metadata and multimedia accessibility standards. Documentation will also be a key piece of this project so the department can continue these efforts once the student has completed their work. This project will positively impact users by making multimedia content more accessible and useful to a larger audience by removing barriers to access and use (including a lack of captions or transcripts).
+
+### Perret, R., Thompson, A., **Shannon, M.** & Berge, C. (2022). Unheard Voices: Digitizing the Oral Histories of Underrepresented Communities in Idaho. *CLIR: Recordings at Risk*. Amount awarded: $17,321.00 USD
+- The University of Idaho Library, Special Collections and Archives Department proposes to digitize, preserve, and make accessible approximately 201 hours of first-hand oral history interviews that document the experiences of Chinese Americans, Filipino Americans, Hispanic Americans, Japanese Americans, and rural women living in Idaho in the 20th century. These interviews currently exist on legacy media formats and include 40 audiovisual U-Matic tapes, 4 audiovisual VHS tapes, 64 open-reel audio tapes, and 64 audio cassette tapes. Once digitized, we will hire a student worker to create item-level descriptive metadata, digitize print transcripts and corresponding print material, and add the digitized files and metadata to our digital collections. These interviews offer a unique and important perspective on the experiences of minority communities living in a predominantly white and rural state throughout the 20th century. This digitiziation project will allow these voices to speak to us again.
